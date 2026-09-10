@@ -1,0 +1,2 @@
+This is book2 of series mybiobook
+author: qwerty
